@@ -1,0 +1,54 @@
+
+C:\Users\Nikhil>cd C:\Users\Nikhil\01_Learning\02_Git_&_GitHub
+The system cannot find the path specified.
+'_GitHub' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\Nikhil>cd C:\Users\Nikhil\01_Learning\02_Git_&_GitHub
+The system cannot find the path specified.
+'_GitHub' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\Nikhil>dir "C:\Users\Nikhil\01_Learning"
+ Volume in drive C is Windows
+ Volume Serial Number is EA37-06AE
+
+ Directory of C:\Users\Nikhil\01_Learning
+
+10-Nov-26  02:50 PM    <DIR>          .
+10-Nov-26  02:53 PM    <DIR>          ..
+10-Nov-26  09:12 AM    <DIR>          01_Full Stack Data Science
+10-Nov-26  02:50 PM    <DIR>          02_Git_&_GitHub
+               0 File(s)              0 bytes
+               4 Dir(s)  230,777,126,912 bytes free
+
+C:\Users\Nikhil>cd /d "C:\Users\Nikhil\01_Learning\02_Git_&_GitHub"
+
+C:\Users\Nikhil\01_Learning\02_Git_&_GitHub>mkdir Git_Practice
+
+C:\Users\Nikhil\01_Learning\02_Git_&_GitHub>cd Git_Practice
+
+C:\Users\Nikhil\01_Learning\02_Git_&_GitHub\Git_Practice>git init
+Initialized empty Git repository in C:/Users/Nikhil/01_Learning/02_Git_&_GitHub/Git_Practice/.git/
+
+C:\Users\Nikhil\01_Learning\02_Git_&_GitHub\Git_Practice>git status
+On branch master
+
+No commits yet
+
+nothing to commit (create/copy files and use "git add" to track)
+
+C:\Users\Nikhil\01_Learning\02_Git_&_GitHub\Git_Practice>echo print("Hello GitHub") > hello.py
+
+C:\Users\Nikhil\01_Learning\02_Git_&_GitHub\Git_Practice>git status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        hello.py
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+C:\Users\Nikhil\01_Learning\02_Git_&_GitHub\Git_Practice>
