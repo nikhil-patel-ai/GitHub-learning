@@ -34,19 +34,51 @@ I will maintain practical examples, command references, exercises, notes, and pr
 
 ```text
 GitHub-learning/
-│
-├── data.py
-├── hello.py
-├── README.md
-└── git_commands.txt
+├── 01-git-github-fundamentals/
+│   ├── notes.md
+│   └── practice/
+├── 02-git-installation-configuration/
+│   ├── notes.md
+│   └── practice/
+├── 03-repository-management/
+│   ├── notes.md
+│   └── practice/
+├── 04-essential-git-commands/
+│   ├── notes.md
+│   └── practice/
+├── 05-remote-repository-management/
+│   ├── notes.md
+│   └── practice/
+├── 06-branching-merging/
+│   ├── notes.md
+│   └── practice/
+├── 07-github-collaboration/
+│   ├── notes.md
+│   └── practice/
+├── 08-github-repository-management/
+│   ├── notes.md
+│   └── practice/
+├── 09-advanced-git-concepts/
+│   ├── notes.md
+│   └── practice/
+├── 10-github-actions-cicd/
+│   ├── notes.md
+│   └── practice/
+├── 11-professional-git-workflow/
+│   ├── notes.md
+│   └── practice/
+├── 12-real-world-projects/
+│   ├── notes.md
+│   └── practice/
+└── README.md
 ```
 
-| File | Description |
+| Item | Description |
 |---|---|
-| `hello.py` | Basic Python examples for Git practice |
-| `data.py` | Python coding and modification exercises |
-| `README.md` | Learning documentation and progress tracker |
-| `git_commands.txt` | Git command reference and examples |
+| Module folders | 12 numbered Git & GitHub learning modules |
+| `notes.md` | Topic checklist and personal learning notes |
+| `practice/` | Hands-on practice files for each module |
+| `README.md` | Complete roadmap and progress tracker |
 
 ---
 
@@ -228,7 +260,7 @@ This section tracks my overall progress throughout the course.
 | Remote Repository Management | 0% |
 | Branching & Merging | 0% |
 | GitHub Collaboration | 0% |
-| Repository Management | 0% |
+| GitHub Repository Management | 0% |
 | Advanced Git Concepts | 0% |
 | GitHub Actions & CI/CD | 0% |
 | Professional Git Workflow | 0% |
