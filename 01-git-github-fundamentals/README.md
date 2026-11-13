@@ -2,7 +2,7 @@
 
 ## Topic Checklist
 
-- [ ] Introduction to Version Control
+- [x] Introduction to Version Control
 - [ ] What is Git?
 - [ ] What is GitHub?
 - [ ] Git vs GitHub
