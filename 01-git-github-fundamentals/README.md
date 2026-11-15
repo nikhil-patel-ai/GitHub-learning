@@ -8,7 +8,7 @@
 - [x] Git vs GitHub
 - [x] Why Developers Use Git
 - [x] Understanding Repositories
-- [ ] Local vs Remote Repositories
+- [x] Local vs Remote Repositories
 - [ ] GitHub Interface Overview
 - [ ] GitHub Profile and Account Setup
 
