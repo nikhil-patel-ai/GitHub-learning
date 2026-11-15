@@ -3,10 +3,10 @@
 ## Topic Checklist
 
 - [x] Introduction to Version Control
-- [ ] What is Git?
-- [ ] What is GitHub?
-- [ ] Git vs GitHub
-- [ ] Why Developers Use Git
+- [x] What is Git?
+- [x] What is GitHub?
+- [x] Git vs GitHub
+- [x] Why Developers Use Git
 - [ ] Understanding Repositories
 - [ ] Local vs Remote Repositories
 - [ ] GitHub Interface Overview
