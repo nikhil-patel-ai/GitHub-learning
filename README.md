@@ -7,106 +7,96 @@
   <img src="https://img.shields.io/badge/Status-Learning%20in%20Progress-orange" />
 </p>
 
-## About This Repository
+A structured, practice-based journey from beginner to advanced level in Git and GitHub, documented topic by topic in Jupyter notebooks.
 
-Welcome to my **Git & GitHub Learning Repository**.
+## Table of Contents
 
-This repository documents my complete learning journey from beginner to advanced level in Git and GitHub.
+1. [About This Repository](#1-about-this-repository)
+2. [Learning Objectives](#2-learning-objectives)
+3. [Learning Roadmap](#3-learning-roadmap)
+4. [Learning Progress Tracker](#4-learning-progress-tracker)
+5. [Repository Structure](#5-repository-structure)
+6. [Naming Conventions](#6-naming-conventions)
+7. [Tools and Environment](#7-tools-and-environment)
+8. [Learning Approach](#8-learning-approach)
+9. [Git Command Reference](#9-git-command-reference)
+10. [Learning Resources](#10-learning-resources)
+11. [Learning Commitment](#11-learning-commitment)
+12. [Author and Links](#12-author-and-links)
 
-The main objective is to understand version control, manage repositories, work with branches, collaborate with developers, and implement real-world Git and GitHub workflows.
+---
 
-I will maintain practical examples, command references, exercises, notes, and project activities throughout this journey.
+## 1. About This Repository
 
-## Learning Objectives
+This repository documents my complete learning journey in Git and GitHub, from the basics of version control to professional team workflows.
+
+The main objective is to understand version control, manage repositories, work with branches, collaborate with other developers, and apply real-world Git and GitHub workflows.
+
+### How to Use This Repository
+
+1. Start with the [Learning Roadmap](#3-learning-roadmap) to see all modules and topics.
+2. Open a module folder and read its `README.md` for the module overview, topic table and interview questions.
+3. Open the numbered notebooks inside the module folder in order. Each notebook covers one topic.
+4. Check the [Progress Tracker](#4-learning-progress-tracker) to see what is completed.
+
+## 2. Learning Objectives
 
 - Understand Git and GitHub fundamentals.
 - Learn version control and repository management.
-- Work with Git commands using CMD, Git Bash, and VS Code.
+- Work with Git commands using CMD, Git Bash, PowerShell and VS Code.
 - Manage local and remote repositories.
 - Track project changes using commits.
-- Understand branching, merging, and conflict resolution.
+- Understand branching, merging and conflict resolution.
 - Collaborate with developers using Pull Requests.
 - Manage projects using GitHub Issues and Projects.
 - Understand GitHub Actions and CI/CD fundamentals.
 - Follow professional Git and GitHub workflows.
 
-## Repository Structure
-
-```text
-GitHub-learning/
-├── 01-git-github-fundamentals/
-│   ├── notes.md
-│   └── practice/
-├── 02-git-installation-configuration/
-│   ├── notes.md
-│   └── practice/
-├── 03-repository-management/
-│   ├── notes.md
-│   └── practice/
-├── 04-essential-git-commands/
-│   ├── notes.md
-│   └── practice/
-├── 05-remote-repository-management/
-│   ├── notes.md
-│   └── practice/
-├── 06-branching-merging/
-│   ├── notes.md
-│   └── practice/
-├── 07-github-collaboration/
-│   ├── notes.md
-│   └── practice/
-├── 08-github-repository-management/
-│   ├── notes.md
-│   └── practice/
-├── 09-advanced-git-concepts/
-│   ├── notes.md
-│   └── practice/
-├── 10-github-actions-cicd/
-│   ├── notes.md
-│   └── practice/
-├── 11-professional-git-workflow/
-│   ├── notes.md
-│   └── practice/
-├── 12-real-world-projects/
-│   ├── notes.md
-│   └── practice/
-└── README.md
-```
-
-| Item | Description |
-|---|---|
-| Module folders | 12 numbered Git & GitHub learning modules |
-| `notes.md` | Topic checklist and personal learning notes |
-| `practice/` | Hands-on practice files for each module |
-| `README.md` | Complete roadmap and progress tracker |
-
 ---
 
-# Complete Learning Roadmap
+## 3. Learning Roadmap
 
-## 01. Git & GitHub Fundamentals
+### A. Module Overview
 
-- [ ] Introduction to Version Control
-- [ ] What is Git?
-- [ ] What is GitHub?
-- [ ] Git vs GitHub
-- [ ] Why Developers Use Git
-- [ ] Understanding Repositories
-- [ ] Local vs Remote Repositories
-- [ ] GitHub Interface Overview
-- [ ] GitHub Profile and Account Setup
+| No. | Module | Topics | Status |
+|---|---|---|---|
+| 01 | [Git & GitHub Fundamentals](01-git-github-fundamentals/) | 9 | Completed |
+| 02 | [Git Installation & Configuration](02-git-installation-configuration/) | 6 | In progress |
+| 03 | Repository Management | 12 | Not started |
+| 04 | Essential Git Commands | 13 | Not started |
+| 05 | Remote Repository Management | 10 | Not started |
+| 06 | Branching & Merging | 13 | Not started |
+| 07 | GitHub Collaboration | 10 | Not started |
+| 08 | GitHub Repository Management | 11 | Not started |
+| 09 | Advanced Git Concepts | 12 | Not started |
+| 10 | GitHub Actions & CI/CD | 11 | Not started |
+| 11 | Professional Git Workflow | 10 | Not started |
+| 12 | Real-World Projects & Practice | 7 | Not started |
 
-## 02. Git Installation & Configuration
+### B. Detailed Topic Checklist
 
-- [ ] Installing Git on Windows
-- [ ] Understanding Git Bash
-- [ ] Git Version Verification
-- [ ] Configuring Git Username
-- [ ] Configuring Git Email
-- [ ] Global vs Local Configuration
-- [ ] Understanding Git Configuration Files
+#### 01. Git & GitHub Fundamentals
 
-## 03. Repository Management
+- [x] Introduction to Version Control
+- [x] What is Git?
+- [x] What is GitHub?
+- [x] Git vs GitHub
+- [x] Why Developers Use Git
+- [x] Understanding Repositories
+- [x] Local vs Remote Repositories
+- [x] GitHub Interface Overview
+- [x] GitHub Profile and Account Setup
+
+#### 02. Git Installation & Configuration
+
+- [x] Installing Git on Windows
+- [x] Verifying Git Installation
+- [ ] Understanding Git Bash and Git CLI
+- [ ] Configuring Username and Email
+- [ ] Git Global vs Local Configuration
+- [ ] Checking and Managing Git Settings (including Git configuration files)
+
+#### 03. Repository Management
 
 - [ ] Creating a GitHub Repository
 - [ ] Understanding Public vs Private Repositories
@@ -121,7 +111,7 @@ GitHub-learning/
 - [ ] Viewing Commit History
 - [ ] Understanding Commit Messages
 
-## 04. Essential Git Commands
+#### 04. Essential Git Commands
 
 - [ ] `git init`
 - [ ] `git status`
@@ -137,7 +127,7 @@ GitHub-learning/
 - [ ] `git revert`
 - [ ] `git clean`
 
-## 05. Remote Repository Management
+#### 05. Remote Repository Management
 
 - [ ] Understanding Remote Repositories
 - [ ] Connecting Local and Remote Repositories
@@ -150,7 +140,7 @@ GitHub-learning/
 - [ ] Understanding Push vs Pull vs Fetch
 - [ ] Setting Upstream Branches
 
-## 06. Branching & Merging
+#### 06. Branching & Merging
 
 - [ ] Understanding Git Branches
 - [ ] Creating Branches
@@ -166,7 +156,7 @@ GitHub-learning/
 - [ ] Resolving Merge Conflicts
 - [ ] Understanding HEAD
 
-## 07. GitHub Collaboration
+#### 07. GitHub Collaboration
 
 - [ ] Forking Repositories
 - [ ] Cloning Repositories
@@ -179,7 +169,7 @@ GitHub-learning/
 - [ ] Understanding Upstream Repositories
 - [ ] Contributing to Open Source Projects
 
-## 08. GitHub Repository Management
+#### 08. GitHub Repository Management
 
 - [ ] Writing Professional README Files
 - [ ] Creating `.gitignore`
@@ -193,7 +183,7 @@ GitHub-learning/
 - [ ] GitHub Projects
 - [ ] Repository Insights and Analytics
 
-## 09. Advanced Git Concepts
+#### 09. Advanced Git Concepts
 
 - [ ] Git Stash
 - [ ] Git Cherry-Pick
@@ -208,7 +198,7 @@ GitHub-learning/
 - [ ] Recovering Lost Commits
 - [ ] Handling Complex Merge Conflicts
 
-## 10. GitHub Actions & CI/CD
+#### 10. GitHub Actions & CI/CD
 
 - [ ] Introduction to GitHub Actions
 - [ ] Understanding Workflows
@@ -222,7 +212,7 @@ GitHub-learning/
 - [ ] Continuous Deployment (CD)
 - [ ] GitHub Secrets and Variables
 
-## 11. Professional Git Workflow
+#### 11. Professional Git Workflow
 
 - [ ] Understanding Git Flow
 - [ ] Feature Branch Workflow
@@ -235,7 +225,7 @@ GitHub-learning/
 - [ ] Repository Security Best Practices
 - [ ] Resolving Common Git Errors
 
-## 12. Real-World Projects & Practice
+#### 12. Real-World Projects & Practice
 
 - [ ] Project 1: Create and Manage a Git Repository
 - [ ] Project 2: Practice Branching and Merging
@@ -247,44 +237,95 @@ GitHub-learning/
 
 ---
 
-# Learning Progress Tracker
+## 4. Learning Progress Tracker
 
-This section tracks my overall progress throughout the course.
+| Module | Completed Topics | Progress | Status |
+|---|---|---|---|
+| 01. Git & GitHub Fundamentals | 9 / 9 | 100% | Completed |
+| 02. Git Installation & Configuration | 2 / 6 | 33% | In progress |
+| 03. Repository Management | 0 / 12 | 0% | Not started |
+| 04. Essential Git Commands | 0 / 13 | 0% | Not started |
+| 05. Remote Repository Management | 0 / 10 | 0% | Not started |
+| 06. Branching & Merging | 0 / 13 | 0% | Not started |
+| 07. GitHub Collaboration | 0 / 10 | 0% | Not started |
+| 08. GitHub Repository Management | 0 / 11 | 0% | Not started |
+| 09. Advanced Git Concepts | 0 / 12 | 0% | Not started |
+| 10. GitHub Actions & CI/CD | 0 / 11 | 0% | Not started |
+| 11. Professional Git Workflow | 0 / 10 | 0% | Not started |
+| 12. Real-World Projects & Practice | 0 / 7 | 0% | Not started |
+| **Overall** | **11 / 124** | **9%** | **In progress** |
 
-| Learning Module | Progress |
-|---|---|
-| Git & GitHub Fundamentals | 0% |
-| Git Installation & Configuration | 0% |
-| Repository Management | 0% |
-| Essential Git Commands | 0% |
-| Remote Repository Management | 0% |
-| Branching & Merging | 0% |
-| GitHub Collaboration | 0% |
-| GitHub Repository Management | 0% |
-| Advanced Git Concepts | 0% |
-| GitHub Actions & CI/CD | 0% |
-| Professional Git Workflow | 0% |
-| Real-World Projects | 0% |
+**Current learning position:** Module 02, Topic 03 – Understanding Git Bash and Git CLI.
 
-**Current Learning Status:** Lesson 1 – Git & GitHub Fundamentals.
-
-*Progress percentages will be updated as modules are completed.*
+*The tracker is updated together with each completed notebook.*
 
 ---
 
-# Practical Learning Methodology
+## 5. Repository Structure
 
-Every topic in this repository will follow a practical learning approach.
+```text
+GitHub-learning/
+├── 01-git-github-fundamentals/
+│   ├── README.md
+│   └── 01_... to 09_... topic notebooks (.ipynb)
+├── 02-git-installation-configuration/
+│   ├── README.md
+│   ├── 01_installing_git_on_windows.ipynb
+│   └── 02_verifying_git_installation.ipynb
+├── 03-repository-management/              (planned)
+├── 04-essential-git-commands/             (planned)
+├── 05-remote-repository-management/       (planned)
+├── 06-branching-merging/                  (planned)
+├── 07-github-collaboration/               (planned)
+├── 08-github-repository-management/       (planned)
+├── 09-advanced-git-concepts/              (planned)
+├── 10-github-actions-cicd/                (planned)
+├── 11-professional-git-workflow/          (planned)
+├── 12-real-world-projects/                (planned)
+└── README.md
+```
+
+| Item | Description |
+|---|---|
+| Module folders | 12 numbered Git & GitHub learning modules |
+| Module `README.md` | Module overview, topic table, learning outcomes, tools, commands covered and short interview questions |
+| Topic notebooks (`.ipynb`) | One numbered notebook per topic, placed directly inside its module folder |
+| Root `README.md` | Complete roadmap and progress tracker |
+
+## 6. Naming Conventions
+
+| Item | Convention | Example |
+|---|---|---|
+| Module folder | Two-digit number, hyphen, lowercase name with hyphens | `02-git-installation-configuration` |
+| Topic notebook | Two-digit number, underscore, lowercase name with underscores | `01_installing_git_on_windows.ipynb` |
+| Status labels | Completed, In progress, Not started | – |
+
+## 7. Tools and Environment
+
+| Tool | Purpose |
+|---|---|
+| Windows 11 | Operating system |
+| Git and Git Bash | Version control and Unix-style terminal |
+| PowerShell and Command Prompt | Windows command-line environments |
+| VS Code | Code editor and Jupyter notebook editing |
+| Jupyter notebooks | Topic-wise learning documentation |
+| GitHub | Remote repository hosting |
+
+## 8. Learning Approach
+
+Every topic follows a practical, step-by-step approach.
 
 1. **Concept:** Understand the topic and its purpose.
 2. **Explanation:** Learn how it works with simple examples.
 3. **Commands:** Practice the relevant Git commands.
-4. **Local Practice:** Perform operations in the local project.
+4. **Local Practice:** Perform operations in a local project.
 5. **GitHub Practice:** Update and manage the online repository.
-6. **Verification:** Verify changes, commits, and repository history.
+6. **Verification:** Verify changes, commits and repository history.
 7. **Exercise:** Complete practical tasks and quizzes.
 
-## Real-World Git Workflow
+Each topic notebook documents the topic in this order: information table, learning objectives, key terminology, concept explanation, commands and syntax, comparisons, practical work, common mistakes and troubleshooting, best practices and warnings, exercises, interview questions with answers, and a summary.
+
+### Real-World Git Workflow
 
 ```text
 Create or Modify Files
@@ -313,17 +354,17 @@ GitHub Remote Repository
 
 ---
 
-# Git Command Reference
+## 9. Git Command Reference
 
-A quick reference for commonly used Git commands.
+A quick reference for commonly used Git commands. Each command is explained in detail in its topic notebook.
 
 | Command | Purpose |
 |---|---|
 | `git --version` | Check Git version |
 | `git config --list` | View Git configuration |
-| `git init` | Initialize repository |
+| `git init` | Initialize a repository |
 | `git status` | Check repository status |
-| `git add .` | Stage all changes under current directory |
+| `git add <file>` | Stage a specific file |
 | `git commit -m "message"` | Create a commit |
 | `git log` | View commit history |
 | `git diff` | View unstaged changes |
@@ -338,9 +379,7 @@ A quick reference for commonly used Git commands.
 
 More commands and examples are maintained in `git_commands.txt`.
 
----
-
-# Learning Resources
+## 10. Learning Resources
 
 | Resource | Link |
 |---|---|
@@ -348,17 +387,12 @@ More commands and examples are maintained in `git_commands.txt`.
 | Git Documentation | https://git-scm.com/doc |
 | GitHub Documentation | https://docs.github.com/ |
 | GitHub Skills | https://skills.github.com/ |
-| GitHub Learning Lab Resources | https://github.com/skills |
 
----
+## 11. Learning Commitment
 
-# Learning Commitment
+I am following a structured, practical approach to learning Git and GitHub. My focus is not on memorizing commands, but on understanding how developers use version control in real-world software development.
 
-I am following a structured, practical approach to learning Git and GitHub.
-
-My focus is not just memorizing commands but understanding how developers use version control in real-world software development.
-
-I will continuously update this repository with:
+This repository is updated continuously with:
 
 - Learning notes and documentation.
 - Practical Git commands.
@@ -374,6 +408,8 @@ I will continuously update this repository with:
   <br/>
   <i>One step at a time, from beginner to advanced.</i>
 </p>
+
+## 12. Author and Links
 
 **Author:** Nikhil Patel
 
