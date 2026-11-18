@@ -18,7 +18,7 @@ After completing this module, you will be able to:
 | 01 | Installing Git on Windows | [01_installing_git_on_windows.ipynb](01_installing_git_on_windows.ipynb) |
 | 02 | Verifying Git Installation | [02_verifying_git_installation.ipynb](02_verifying_git_installation.ipynb) |
 | 03 | Understanding Git Bash and Git CLI | [03_understanding_git_bash_and_git_cli.ipynb](03_understanding_git_bash_and_git_cli.ipynb) |
-| 04 | Configuring Username and Email | `04_configuring_username_and_email.ipynb` |
+| 04 | Configuring Username and Email | [04_configuring_username_and_email.ipynb](04_configuring_username_and_email.ipynb) |
 | 05 | Git Global vs Local Configuration | `05_git_global_vs_local_configuration.ipynb` |
 | 06 | Checking and Managing Git Settings | `06_checking_and_managing_git_settings.ipynb` |
 
@@ -101,7 +101,7 @@ Before completing this module, make sure you can:
 - [x] Topic 01 – Installing Git on Windows
 - [x] Topic 02 – Verifying Git Installation
 - [x] Topic 03 – Understanding Git Bash and Git CLI
-- [ ] Topic 04 – Configuring Username and Email
+- [x] Topic 04 – Configuring Username and Email
 - [ ] Topic 05 – Git Global vs Local Configuration
 - [ ] Topic 06 – Checking and Managing Git Settings
 
