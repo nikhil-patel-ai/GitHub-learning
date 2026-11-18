@@ -1,11 +1,6 @@
 # Git & GitHub – Complete Learning Journey
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-Version%20Control-F05032?logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-Repository%20Management-181717?logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Level-Beginner%20to%20Advanced-blue" />
-  <img src="https://img.shields.io/badge/Status-Learning%20in%20Progress-orange" />
-</p>
+\<p align="center">   \<img src="[https://img.shields.io/badge/Git-Version%20Control-F05032?logo=git&logoColor=white](https://img.shields.io/badge/Git-Version%20Control-F05032?logo=git\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/GitHub-Repository%20Management-181717?logo=github&logoColor=white](https://img.shields.io/badge/GitHub-Repository%20Management-181717?logo=github\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/Level-Beginner%20to%20Advanced-blue](https://img.shields.io/badge/Level-Beginner%20to%20Advanced-blue)" />   \<img src="[https://img.shields.io/badge/Status-Learning%20in%20Progress-orange](https://img.shields.io/badge/Status-Learning%20in%20Progress-orange)" /> \</p>
 
 A structured, practice-based journey from beginner to advanced level in Git and GitHub, documented topic by topic in Jupyter notebooks.
 
@@ -58,20 +53,20 @@ The main objective is to understand version control, manage repositories, work w
 
 ### A. Module Overview
 
-| No. | Module | Topics | Status |
-|---|---|---|---|
-| 01 | [Git & GitHub Fundamentals](01-git-github-fundamentals/) | 9 | Completed |
-| 02 | [Git Installation & Configuration](02-git-installation-configuration/) | 6 | In progress |
-| 03 | Repository Management | 12 | Not started |
-| 04 | Essential Git Commands | 13 | Not started |
-| 05 | Remote Repository Management | 10 | Not started |
-| 06 | Branching & Merging | 13 | Not started |
-| 07 | GitHub Collaboration | 10 | Not started |
-| 08 | GitHub Repository Management | 11 | Not started |
-| 09 | Advanced Git Concepts | 12 | Not started |
-| 10 | GitHub Actions & CI/CD | 11 | Not started |
-| 11 | Professional Git Workflow | 10 | Not started |
-| 12 | Real-World Projects & Practice | 7 | Not started |
+| No. | Module                                                                 | Topics | Status      |
+| --- | ---------------------------------------------------------------------- | ------ | ----------- |
+| 01  | [Git & GitHub Fundamentals](01-git-github-fundamentals/)               | 9      | Completed   |
+| 02  | [Git Installation & Configuration](02-git-installation-configuration/) | 6      | In progress |
+| 03  | Repository Management                                                  | 12     | Not started |
+| 04  | Essential Git Commands                                                 | 13     | Not started |
+| 05  | Remote Repository Management                                           | 10     | Not started |
+| 06  | Branching & Merging                                                    | 13     | Not started |
+| 07  | GitHub Collaboration                                                   | 10     | Not started |
+| 08  | GitHub Repository Management                                           | 11     | Not started |
+| 09  | Advanced Git Concepts                                                  | 12     | Not started |
+| 10  | GitHub Actions & CI/CD                                                 | 11     | Not started |
+| 11  | Professional Git Workflow                                              | 10     | Not started |
+| 12  | Real-World Projects & Practice                                         | 7      | Not started |
 
 ### B. Detailed Topic Checklist
 
@@ -91,7 +86,7 @@ The main objective is to understand version control, manage repositories, work w
 
 - [x] Installing Git on Windows
 - [x] Verifying Git Installation
-- [ ] Understanding Git Bash and Git CLI
+- [x] Understanding Git Bash and Git CLI
 - [ ] Configuring Username and Email
 - [ ] Git Global vs Local Configuration
 - [ ] Checking and Managing Git Settings (including Git configuration files)
@@ -239,23 +234,23 @@ The main objective is to understand version control, manage repositories, work w
 
 ## 4. Learning Progress Tracker
 
-| Module | Completed Topics | Progress | Status |
-|---|---|---|---|
-| 01. Git & GitHub Fundamentals | 9 / 9 | 100% | Completed |
-| 02. Git Installation & Configuration | 2 / 6 | 33% | In progress |
-| 03. Repository Management | 0 / 12 | 0% | Not started |
-| 04. Essential Git Commands | 0 / 13 | 0% | Not started |
-| 05. Remote Repository Management | 0 / 10 | 0% | Not started |
-| 06. Branching & Merging | 0 / 13 | 0% | Not started |
-| 07. GitHub Collaboration | 0 / 10 | 0% | Not started |
-| 08. GitHub Repository Management | 0 / 11 | 0% | Not started |
-| 09. Advanced Git Concepts | 0 / 12 | 0% | Not started |
-| 10. GitHub Actions & CI/CD | 0 / 11 | 0% | Not started |
-| 11. Professional Git Workflow | 0 / 10 | 0% | Not started |
-| 12. Real-World Projects & Practice | 0 / 7 | 0% | Not started |
-| **Overall** | **11 / 124** | **9%** | **In progress** |
+| Module                               | Completed Topics | Progress | Status          |
+| ------------------------------------ | ---------------- | -------- | --------------- |
+| 01. Git & GitHub Fundamentals        | 9 / 9            | 100%     | Completed       |
+| 02. Git Installation & Configuration | 3 / 6            | 50%      | In progress     |
+| 03. Repository Management            | 0 / 12           | 0%       | Not started     |
+| 04. Essential Git Commands           | 0 / 13           | 0%       | Not started     |
+| 05. Remote Repository Management     | 0 / 10           | 0%       | Not started     |
+| 06. Branching & Merging              | 0 / 13           | 0%       | Not started     |
+| 07. GitHub Collaboration             | 0 / 10           | 0%       | Not started     |
+| 08. GitHub Repository Management     | 0 / 11           | 0%       | Not started     |
+| 09. Advanced Git Concepts            | 0 / 12           | 0%       | Not started     |
+| 10. GitHub Actions & CI/CD           | 0 / 11           | 0%       | Not started     |
+| 11. Professional Git Workflow        | 0 / 10           | 0%       | Not started     |
+| 12. Real-World Projects & Practice   | 0 / 7            | 0%       | Not started     |
+| **Overall**                          | **12 / 124**     | **10%**  | **In progress** |
 
-**Current learning position:** Module 02, Topic 03 – Understanding Git Bash and Git CLI.
+**Current learning position:** Module 02, Topic 04 – Configuring Username and Email.
 
 *The tracker is updated together with each completed notebook.*
 
@@ -271,7 +266,8 @@ GitHub-learning/
 ├── 02-git-installation-configuration/
 │   ├── README.md
 │   ├── 01_installing_git_on_windows.ipynb
-│   └── 02_verifying_git_installation.ipynb
+│   ├── 02_verifying_git_installation.ipynb
+│   └── 03_understanding_git_bash_and_git_cli.ipynb
 ├── 03-repository-management/              (planned)
 ├── 04-essential-git-commands/             (planned)
 ├── 05-remote-repository-management/       (planned)
@@ -285,31 +281,31 @@ GitHub-learning/
 └── README.md
 ```
 
-| Item | Description |
-|---|---|
-| Module folders | 12 numbered Git & GitHub learning modules |
-| Module `README.md` | Module overview, topic table, learning outcomes, tools, commands covered and short interview questions |
-| Topic notebooks (`.ipynb`) | One numbered notebook per topic, placed directly inside its module folder |
-| Root `README.md` | Complete roadmap and progress tracker |
+| Item                       | Description                                                                                            |
+| -------------------------- | ------------------------------------------------------------------------------------------------------ |
+| Module folders             | 12 numbered Git & GitHub learning modules                                                              |
+| Module `README.md`         | Module overview, topic table, learning outcomes, tools, commands covered and short interview questions |
+| Topic notebooks (`.ipynb`) | One numbered notebook per topic, placed directly inside its module folder                              |
+| Root `README.md`           | Complete roadmap and progress tracker                                                                  |
 
 ## 6. Naming Conventions
 
-| Item | Convention | Example |
-|---|---|---|
-| Module folder | Two-digit number, hyphen, lowercase name with hyphens | `02-git-installation-configuration` |
+| Item           | Convention                                                    | Example                              |
+| -------------- | ------------------------------------------------------------- | ------------------------------------ |
+| Module folder  | Two-digit number, hyphen, lowercase name with hyphens         | `02-git-installation-configuration`  |
 | Topic notebook | Two-digit number, underscore, lowercase name with underscores | `01_installing_git_on_windows.ipynb` |
-| Status labels | Completed, In progress, Not started | – |
+| Status labels  | Completed, In progress, Not started                           | –                                    |
 
 ## 7. Tools and Environment
 
-| Tool | Purpose |
-|---|---|
-| Windows 11 | Operating system |
-| Git and Git Bash | Version control and Unix-style terminal |
-| PowerShell and Command Prompt | Windows command-line environments |
-| VS Code | Code editor and Jupyter notebook editing |
-| Jupyter notebooks | Topic-wise learning documentation |
-| GitHub | Remote repository hosting |
+| Tool                          | Purpose                                  |
+| ----------------------------- | ---------------------------------------- |
+| Windows 11                    | Operating system                         |
+| Git and Git Bash              | Version control and Unix-style terminal  |
+| PowerShell and Command Prompt | Windows command-line environments        |
+| VS Code                       | Code editor and Jupyter notebook editing |
+| Jupyter notebooks             | Topic-wise learning documentation        |
+| GitHub                        | Remote repository hosting                |
 
 ## 8. Learning Approach
 
@@ -358,35 +354,35 @@ GitHub Remote Repository
 
 A quick reference for commonly used Git commands. Each command is explained in detail in its topic notebook.
 
-| Command | Purpose |
-|---|---|
-| `git --version` | Check Git version |
-| `git config --list` | View Git configuration |
-| `git init` | Initialize a repository |
-| `git status` | Check repository status |
-| `git add <file>` | Stage a specific file |
-| `git commit -m "message"` | Create a commit |
-| `git log` | View commit history |
-| `git diff` | View unstaged changes |
-| `git branch` | List branches |
-| `git switch branch-name` | Switch branches |
-| `git merge branch-name` | Merge a branch |
-| `git remote -v` | View remote repositories |
-| `git push` | Upload local commits |
-| `git pull` | Fetch and integrate remote changes |
-| `git clone URL` | Clone a remote repository |
-| `git fetch` | Download remote updates |
+| Command                   | Purpose                            |
+| ------------------------- | ---------------------------------- |
+| `git --version`           | Check Git version                  |
+| `git config --list`       | View Git configuration             |
+| `git init`                | Initialize a repository            |
+| `git status`              | Check repository status            |
+| `git add <file>`          | Stage a specific file              |
+| `git commit -m "message"` | Create a commit                    |
+| `git log`                 | View commit history                |
+| `git diff`                | View unstaged changes              |
+| `git branch`              | List branches                      |
+| `git switch branch-name`  | Switch branches                    |
+| `git merge branch-name`   | Merge a branch                     |
+| `git remote -v`           | View remote repositories           |
+| `git push`                | Upload local commits               |
+| `git pull`                | Fetch and integrate remote changes |
+| `git clone URL`           | Clone a remote repository          |
+| `git fetch`               | Download remote updates            |
 
 More commands and examples are maintained in `git_commands.txt`.
 
 ## 10. Learning Resources
 
-| Resource | Link |
-|---|---|
-| Git Official Website | https://git-scm.com/ |
-| Git Documentation | https://git-scm.com/doc |
-| GitHub Documentation | https://docs.github.com/ |
-| GitHub Skills | https://skills.github.com/ |
+| Resource             | Link                                                     |
+| -------------------- | -------------------------------------------------------- |
+| Git Official Website | [https://git-scm.com/](https://git-scm.com/)             |
+| Git Documentation    | [https://git-scm.com/doc](https://git-scm.com/doc)       |
+| GitHub Documentation | [https://docs.github.com/](https://docs.github.com/)     |
+| GitHub Skills        | [https://skills.github.com/](https://skills.github.com/) |
 
 ## 11. Learning Commitment
 
@@ -403,11 +399,11 @@ This repository is updated continuously with:
 
 ---
 
-<p align="center">
-  <b>Learning • Practicing • Building • Improving</b>
-  <br/>
-  <i>One step at a time, from beginner to advanced.</i>
-</p>
+\<p align="center">
+&#x20; \<b>Learning • Practicing • Building • Improving\</b>
+&#x20; \<br/>
+&#x20; \<i>One step at a time, from beginner to advanced.\</i>
+\</p>
 
 ## 12. Author and Links
 
