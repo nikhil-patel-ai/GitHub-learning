@@ -94,7 +94,7 @@ The main objective is to understand version control, manage repositories, work w
 - [x] Verifying Git Installation
 - [x] Understanding Git Bash and Git CLI
 - [x] Configuring Username and Email
-- [ ] Git Global vs Local Configuration
+- [x] Git Global vs Local Configuration
 - [ ] Checking and Managing Git Settings (including Git configuration files)
 
 #### 03. Repository Management
@@ -243,7 +243,7 @@ The main objective is to understand version control, manage repositories, work w
 | Module                               | Completed Topics | Progress | Status          |
 | ------------------------------------ | ---------------- | -------- | --------------- |
 | 01. Git & GitHub Fundamentals        | 9 / 9            | 100%     | Completed       |
-| 02. Git Installation & Configuration | 4 / 6            | 83%      | In progress     |
+| 02. Git Installation & Configuration | 5 / 6            | 83%      | In progress     |
 | 03. Repository Management            | 0 / 12           | 0%       | Not started     |
 | 04. Essential Git Commands           | 0 / 13           | 0%       | Not started     |
 | 05. Remote Repository Management     | 0 / 10           | 0%       | Not started     |
@@ -254,7 +254,7 @@ The main objective is to understand version control, manage repositories, work w
 | 10. GitHub Actions & CI/CD           | 0 / 11           | 0%       | Not started     |
 | 11. Professional Git Workflow        | 0 / 10           | 0%       | Not started     |
 | 12. Real-World Projects & Practice   | 0 / 7            | 0%       | Not started     |
-| **Overall**                          | **14 / 124**     | **11%**  | **In progress** |
+| **Overall**                          | **14 / 124**     | **11.3%**  | **In progress** |
 
 **Current learning position:** Module 02, Topic 06 – Checking and Managing Git Settings.
 
