@@ -19,7 +19,7 @@ After completing this module, you will be able to:
 | 02 | Verifying Git Installation | [02_verifying_git_installation.ipynb](02_verifying_git_installation.ipynb) |
 | 03 | Understanding Git Bash and Git CLI | [03_understanding_git_bash_and_git_cli.ipynb](03_understanding_git_bash_and_git_cli.ipynb) |
 | 04 | Configuring Username and Email | [04_configuring_username_and_email.ipynb](04_configuring_username_and_email.ipynb) |
-| 05 | Git Global vs Local Configuration | `05_git_global_vs_local_configuration.ipynb` |
+| 05 | Git Global vs Local Configuration | [05_git_global_vs_local_configuration.ipynb](05_git_global_vs_local_configuration.ipynb) |
 | 06 | Checking and Managing Git Settings | `06_checking_and_managing_git_settings.ipynb` |
 
 ## 4. Key Concepts and Terminology
@@ -102,7 +102,7 @@ Before completing this module, make sure you can:
 - [x] Topic 02 – Verifying Git Installation
 - [x] Topic 03 – Understanding Git Bash and Git CLI
 - [x] Topic 04 – Configuring Username and Email
-- [ ] Topic 05 – Git Global vs Local Configuration
+- [x] Topic 05 – Git Global vs Local Configuration
 - [ ] Topic 06 – Checking and Managing Git Settings
 
 ## 15. Module Summary
