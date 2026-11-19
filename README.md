@@ -1,6 +1,12 @@
 # Git & GitHub – Complete Learning Journey
 
-\<p align="center">   \<img src="[https://img.shields.io/badge/Git-Version%20Control-F05032?logo=git&logoColor=white](https://img.shields.io/badge/Git-Version%20Control-F05032?logo=git\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/GitHub-Repository%20Management-181717?logo=github&logoColor=white](https://img.shields.io/badge/GitHub-Repository%20Management-181717?logo=github\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/Level-Beginner%20to%20Advanced-blue](https://img.shields.io/badge/Level-Beginner%20to%20Advanced-blue)" />   \<img src="[https://img.shields.io/badge/Status-Learning%20in%20Progress-orange](https://img.shields.io/badge/Status-Learning%20in%20Progress-orange)" /> \</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-Version%20Control-F05032?logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-Repository%20Management-181717?logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Level-Beginner%20to%20Advanced-blue" />
+  <img src="https://img.shields.io/badge/Status-Learning%20in%20Progress-orange" />
+</p>  
+
 
 A structured, practice-based journey from beginner to advanced level in Git and GitHub, documented topic by topic in Jupyter notebooks.
 
@@ -87,7 +93,7 @@ The main objective is to understand version control, manage repositories, work w
 - [x] Installing Git on Windows
 - [x] Verifying Git Installation
 - [x] Understanding Git Bash and Git CLI
-- [ ] Configuring Username and Email
+- [x] Configuring Username and Email
 - [ ] Git Global vs Local Configuration
 - [ ] Checking and Managing Git Settings (including Git configuration files)
 
