@@ -20,7 +20,7 @@ After completing this module, you will be able to:
 | 03 | Understanding Git Bash and Git CLI | [03_understanding_git_bash_and_git_cli.ipynb](03_understanding_git_bash_and_git_cli.ipynb) |
 | 04 | Configuring Username and Email | [04_configuring_username_and_email.ipynb](04_configuring_username_and_email.ipynb) |
 | 05 | Git Global vs Local Configuration | [05_git_global_vs_local_configuration.ipynb](05_git_global_vs_local_configuration.ipynb) |
-| 06 | Checking and Managing Git Settings | `06_checking_and_managing_git_settings.ipynb` |
+| 06 | Checking and Managing Git Settings | [06_checking_and_managing_git_settings.ipynb](06_checking_and_managing_git_settings.ipynb) |
 
 ## 4. Key Concepts and Terminology
 - **Git for Windows:** The Windows distribution of Git command-line tools.
@@ -103,7 +103,7 @@ Before completing this module, make sure you can:
 - [x] Topic 03 – Understanding Git Bash and Git CLI
 - [x] Topic 04 – Configuring Username and Email
 - [x] Topic 05 – Git Global vs Local Configuration
-- [ ] Topic 06 – Checking and Managing Git Settings
+- [x] Topic 06 – Checking and Managing Git Settings
 
 ## 15. Module Summary
 This module establishes a working Git installation and the configuration needed to use Git consistently. Complete the topics in order and record practical results in the notebooks. The next module covers repository management.
