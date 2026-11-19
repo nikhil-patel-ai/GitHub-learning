@@ -1,2 +1,3 @@
 Learning Git and GitHub.
 Practicing file tracking.
+Learning how Git tracks modified files.
