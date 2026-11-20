@@ -12,6 +12,7 @@ This module covers creating and cloning repositories, understanding repository s
 | 04 | Working with README.md | [04_working_with_readme_md.ipynb](04_working_with_readme_md.ipynb) |
 | 05 | Making Changes to Files and Tracking Them with Git | [05_making_changes_and_tracking_files.ipynb](05_making_changes_and_tracking_files.ipynb) |
 | 06 | Viewing File History and Changes | [06_viewing_file_history_and_changes.ipynb](06_viewing_file_history_and_changes.ipynb) |
+| 07 | Undoing Changes in Git | [07_undoing_changes_in_git.ipynb](07_undoing_changes_in_git.ipynb) |
 | 07–12 | Upcoming repository-management topics | To be added |
 
 ## Learning approach
@@ -23,4 +24,4 @@ Each topic includes concise concepts, commands, practical examples, common mista
 - Topic notebooks uploaded: 6 / 12
 - Practical completion confirmed: Topics 01–04
 - Topic 05 practical: Previously provided; completion not yet verified
-- Current topic: 06 – Viewing File History and Changes
+- Current topic: 07 – Undoing Changes in Git
