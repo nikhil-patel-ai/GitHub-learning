@@ -243,7 +243,7 @@ The main objective is to understand version control, manage repositories, work w
 | ------------------------------------ | ------------------ | --------------- | --------------------- |
 | 01. Git & GitHub Fundamentals        | 9 / 9              | 100%            | Completed             |
 | 02. Git Installation & Configuration | 6 / 6              | 100%            | Completed             |
-| 03. Repository Management            | 0 / 12             | 0%              | Not started           |
+| 03. Repository Management            | 4 / 12             | 33.3%           | In progress           |
 | 04. Essential Git Commands           | 0 / 13             | 0%              | Not started           |
 | 05. Remote Repository Management     | 0 / 10             | 0%              | Not started           |
 | 06. Branching & Merging              | 0 / 13             | 0%              | Not started           |
@@ -255,7 +255,7 @@ The main objective is to understand version control, manage repositories, work w
 | 12. Real-World Projects & Practice   | 0 / 7              | 0%              | Not started           |
 | **Overall**                    | **15 / 124** | **12.1%** | **In progress** |
 
-**Current learning position:** Module 03, Topic 01 – Creating a GitHub Repository.
+**Current learning position:** Module 03, Topic 06 – Viewing File History and Changes.
 
 *The tracker is updated together with each completed notebook.*
 
@@ -275,7 +275,9 @@ GitHub-learning/
 │   ├── 03_understanding_git_bash_and_git_cli.ipynb
 │   ├── 04_configuring_username_and_email.ipynb
 │   └── 05_git_global_vs_local_configuration.ipynb
-├── 03-repository-management/              (planned)
+├── 03-repository-management/
+│   ├── README.md
+│   └── 01–06 topic notebooks (.ipynb)
 ├── 04-essential-git-commands/             (planned)
 ├── 05-remote-repository-management/       (planned)
 ├── 06-branching-merging/                  (planned)
