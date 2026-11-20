@@ -62,7 +62,7 @@ The main objective is to understand version control, manage repositories, work w
 | --- | ------------------------------------------------------------------------- | ------ | ----------- |
 | 01  | [Git &amp; GitHub Fundamentals](01-git-github-fundamentals/)               | 9      | Completed   |
 | 02  | [Git Installation &amp; Configuration](02-git-installation-configuration/) | 6      | Completed   |
-| 03  | Repository Management                                                     | 12     | Not started |
+| 03  | [Repository Management](03-repository-management/) | 12     | In progress |
 | 04  | Essential Git Commands                                                    | 13     | Not started |
 | 05  | Remote Repository Management                                              | 10     | Not started |
 | 06  | Branching & Merging                                                       | 13     | Not started |
@@ -255,7 +255,7 @@ The main objective is to understand version control, manage repositories, work w
 | 12. Real-World Projects & Practice   | 0 / 7              | 0%              | Not started           |
 | **Overall**                    | **15 / 124** | **12.1%** | **In progress** |
 
-**Current learning position:** Module 03, Topic 06 – Viewing File History and Changes.
+**Current learning position:** Module 03, Topic 07 – Undoing Changes in Git.
 
 *The tracker is updated together with each completed notebook.*
 
@@ -277,7 +277,7 @@ GitHub-learning/
 │   └── 05_git_global_vs_local_configuration.ipynb
 ├── 03-repository-management/
 │   ├── README.md
-│   └── 01–06 topic notebooks (.ipynb)
+│   └── 01–07 topic notebooks (.ipynb)
 ├── 04-essential-git-commands/             (planned)
 ├── 05-remote-repository-management/       (planned)
 ├── 06-branching-merging/                  (planned)
