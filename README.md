@@ -98,7 +98,7 @@ The main objective is to understand version control, manage repositories, work w
 
 #### 03. Repository Management
 
-- [ ] Creating a GitHub Repository
+- [X] Creating a GitHub Repository
 - [ ] Understanding Public vs Private Repositories
 - [ ] Creating a Local Repository
 - [ ] Initializing Git with `git init`
@@ -243,7 +243,7 @@ The main objective is to understand version control, manage repositories, work w
 | ------------------------------------ | ------------------ | --------------- | --------------------- |
 | 01. Git & GitHub Fundamentals        | 9 / 9              | 100%            | Completed             |
 | 02. Git Installation & Configuration | 6 / 6              | 100%            | Completed             |
-| 03. Repository Management            | 0 / 12             | 0%              | In progress           |
+| 03. Repository Management            | 1 / 12             | 8.3%            | In progress           |
 | 04. Essential Git Commands           | 0 / 13             | 0%              | Not started           |
 | 05. Remote Repository Management     | 0 / 10             | 0%              | Not started           |
 | 06. Branching & Merging              | 0 / 13             | 0%              | Not started           |
@@ -253,9 +253,9 @@ The main objective is to understand version control, manage repositories, work w
 | 10. GitHub Actions & CI/CD           | 0 / 11             | 0%              | Not started           |
 | 11. Professional Git Workflow        | 0 / 10             | 0%              | Not started           |
 | 12. Real-World Projects & Practice   | 0 / 7              | 0%              | Not started           |
-| **Overall**                    | **15 / 124** | **12.1%** | **In progress** |
+| **Overall**                    | **16 / 124** | **12.9%** | **In progress** |
 
-**Current learning position:** Module 03, Topic 01 – Creating a GitHub Repository (official roadmap). Earlier practice on the previous Module 03 topic sequence is retained in supplementary notebooks and should not be counted against the revised official topic checklist until mapped and verified.
+**Current learning position:** Module 03, Topic 02 – Understanding Public vs Private Repositories. Topic 01 practical completion is carried forward from the previously completed GitHub repository creation exercise. Other earlier practical work will be counted only after it is mapped to an official topic and verified.
 
 *The tracker is updated together with each completed notebook.*
 
@@ -267,18 +267,13 @@ The main objective is to understand version control, manage repositories, work w
 GitHub-learning/
 ├── 01-git-github-fundamentals/
 │   ├── README.md
-│   └── 01_... to 09_... topic notebooks (.ipynb)
+│   └── 01–09 official topic notebooks (.ipynb)
 ├── 02-git-installation-configuration/
 │   ├── README.md
-│   ├── 01_installing_git_on_windows.ipynb
-│   ├── 02_verifying_git_installation.ipynb
-│   ├── 03_understanding_git_bash_and_git_cli.ipynb
-│   ├── 04_configuring_username_and_email.ipynb
-│   └── 05_git_global_vs_local_configuration.ipynb
+│   └── 01–06 official topic notebooks (.ipynb)
 ├── 03-repository-management/
 │   ├── README.md
-│   ├── 01–12 official topic notebooks (.ipynb)
-│   └── supplementary_*.ipynb (retained reference material)
+│   └── 01–12 official topic notebooks (.ipynb)
 ├── 04-essential-git-commands/             (planned)
 ├── 05-remote-repository-management/       (planned)
 ├── 06-branching-merging/                  (planned)
