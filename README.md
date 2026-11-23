@@ -243,7 +243,7 @@ The main objective is to understand version control, manage repositories, work w
 | ------------------------------------ | ------------------ | --------------- | --------------------- |
 | 01. Git & GitHub Fundamentals        | 9 / 9              | 100%            | Completed             |
 | 02. Git Installation & Configuration | 6 / 6              | 100%            | Completed             |
-| 03. Repository Management            | 4 / 12             | 33.3%           | In progress           |
+| 03. Repository Management            | 0 / 12             | 0%              | In progress           |
 | 04. Essential Git Commands           | 0 / 13             | 0%              | Not started           |
 | 05. Remote Repository Management     | 0 / 10             | 0%              | Not started           |
 | 06. Branching & Merging              | 0 / 13             | 0%              | Not started           |
@@ -255,7 +255,7 @@ The main objective is to understand version control, manage repositories, work w
 | 12. Real-World Projects & Practice   | 0 / 7              | 0%              | Not started           |
 | **Overall**                    | **15 / 124** | **12.1%** | **In progress** |
 
-**Current learning position:** Module 03, Topic 07 – Undoing Changes in Git.
+**Current learning position:** Module 03, Topic 01 – Creating a GitHub Repository (official roadmap). Earlier practice on the previous Module 03 topic sequence is retained in supplementary notebooks and should not be counted against the revised official topic checklist until mapped and verified.
 
 *The tracker is updated together with each completed notebook.*
 
@@ -277,7 +277,8 @@ GitHub-learning/
 │   └── 05_git_global_vs_local_configuration.ipynb
 ├── 03-repository-management/
 │   ├── README.md
-│   └── 01–07 topic notebooks (.ipynb)
+│   ├── 01–12 official topic notebooks (.ipynb)
+│   └── supplementary_*.ipynb (retained reference material)
 ├── 04-essential-git-commands/             (planned)
 ├── 05-remote-repository-management/       (planned)
 ├── 06-branching-merging/                  (planned)
