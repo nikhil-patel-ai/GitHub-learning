@@ -62,7 +62,7 @@ The main objective is to understand version control, manage repositories, work w
 | --- | ------------------------------------------------------------------------- | ------ | ----------- |
 | 01  | [Git &amp; GitHub Fundamentals](01-git-github-fundamentals/)               | 9      | Completed   |
 | 02  | [Git Installation &amp; Configuration](02-git-installation-configuration/) | 6      | Completed   |
-| 03  | [Repository Management](03-repository-management/) | 12     | In progress |
+| 03  | [Repository Management](03-repository-management/)                         | 12     | In progress |
 | 04  | Essential Git Commands                                                    | 13     | Not started |
 | 05  | Remote Repository Management                                              | 10     | Not started |
 | 06  | Branching & Merging                                                       | 13     | Not started |
@@ -99,13 +99,13 @@ The main objective is to understand version control, manage repositories, work w
 #### 03. Repository Management
 
 - [X] Creating a GitHub Repository
-- [ ] Understanding Public vs Private Repositories
-- [ ] Creating a Local Repository
-- [ ] Initializing Git with `git init`
-- [ ] Understanding the `.git` Directory
-- [ ] Checking Repository Status
-- [ ] Understanding Working Directory
-- [ ] Understanding Staging Area
+- [X] Understanding Public vs Private Repositories
+- [X] Creating a Local Repository
+- [X] Initializing Git with `git init`
+- [X] Understanding the `.git` Directory
+- [X] Checking Repository Status
+- [X] Understanding Working Directory
+- [X] Understanding Staging Area
 - [ ] Adding Files with `git add`
 - [ ] Creating Commits with `git commit`
 - [ ] Viewing Commit History
@@ -243,7 +243,7 @@ The main objective is to understand version control, manage repositories, work w
 | ------------------------------------ | ------------------ | --------------- | --------------------- |
 | 01. Git & GitHub Fundamentals        | 9 / 9              | 100%            | Completed             |
 | 02. Git Installation & Configuration | 6 / 6              | 100%            | Completed             |
-| 03. Repository Management            | 1 / 12             | 8.3%            | In progress           |
+| 03. Repository Management            | 8 / 12             | 66.7%           | In progress           |
 | 04. Essential Git Commands           | 0 / 13             | 0%              | Not started           |
 | 05. Remote Repository Management     | 0 / 10             | 0%              | Not started           |
 | 06. Branching & Merging              | 0 / 13             | 0%              | Not started           |
@@ -253,9 +253,9 @@ The main objective is to understand version control, manage repositories, work w
 | 10. GitHub Actions & CI/CD           | 0 / 11             | 0%              | Not started           |
 | 11. Professional Git Workflow        | 0 / 10             | 0%              | Not started           |
 | 12. Real-World Projects & Practice   | 0 / 7              | 0%              | Not started           |
-| **Overall**                    | **16 / 124** | **12.9%** | **In progress** |
+| **Overall**                    | **23 / 124** | **18.5%** | **In progress** |
 
-**Current learning position:** Module 03, Topic 02 – Understanding Public vs Private Repositories. Topic 01 practical completion is carried forward from the previously completed GitHub repository creation exercise. Other earlier practical work will be counted only after it is mapped to an official topic and verified.
+**Current learning position:** Module 03, Topic 09 – Adding Files with `git add`. Topics 01–08 are completed. Topic 09 is currently in progress. Remaining topics will be marked complete only after their practical exercises are performed and verified.
 
 *The tracker is updated together with each completed notebook.*
 
