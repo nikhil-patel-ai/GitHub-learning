@@ -49,10 +49,9 @@ This module follows the **12 official topics in the root `README.md`**. The root
 ## Progress
 
 - Official topic notebooks uploaded: **12 / 12**
-- Practical topics completed: **08 / 12**
-- Topic 01–08: **Completed**
-- Topic 09 – Adding Files with `git add`: **In Progress**
-- Topic 10–12: **Not Started**
-- Current official learning position: **Topic 09 – Adding Files with `git add`**
+- Practical topics completed: **12 / 12**
+- Topics 01–12: **Completed**
+- Module status: **Completed**
+- Current official learning position: **Module 04, Topic 01 – Essential Git Commands**
 
 Practical completion is based on exercises actually performed and verified. Notebook availability alone does not count as practical completion.
